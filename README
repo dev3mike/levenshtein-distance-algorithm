@@ -1,0 +1,9 @@
+**Sorting Words by Similarity in TypeScript with Levenshtein distance algorithm**
+
+This code provides a function for sorting a list of words by similarity to a single word using the Levenshtein distance algorithm in TypeScript. It includes a function for calculating the Levenshtein distance between two strings and a function for sorting the list of words based on their similarity to the single word. It can be useful for tasks such as spell checking, text prediction, and more.
+
+    npm install
+    npm run start
+
+**Check the blog post here**
+https://masoudx.medium.com/sorting-words-by-similarity-in-typescript-a-guide-to-use-levenshtein-distance-algorithm-f6b4f3b57008
